@@ -1,19 +1,26 @@
 {
-    "name": "symetrix-api",
-    "displayName": "Symetrix API Snippets",
+    "name": "cognio-api-snippets",
+    "displayName": "Symetrix Cognio API Snippets",
     "publisher": "Symetrix",
     "icon": "VetricalLogo_128x128.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qklarer/Symetrix-API-Snippets"
+        "url": "https://github.com/symetrix-audio/Cognio-API-Snippets"
     },
-    "description": "",
-    "version": "1.1.5",
+    "description": "Lua snippets for Symetrix Cognio 3rd-party control drivers and Control Panel Group scripts.",
+    "version": "1.1.0",
     "engines": {
         "vscode": "^1.60.0"
     },
     "categories": [
         "Snippets"
+    ],
+    "keywords": [
+        "Symetrix",
+        "Cognio",
+        "Lua",
+        "DesignOps",
+        "control driver"
     ],
     "contributes": {
         "snippets": [
